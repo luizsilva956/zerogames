@@ -5,7 +5,7 @@ Bem-vindo ao **Zero Games**, o site oficial do curso que ensina você a criar e 
 
 ## 🌍 Acesse o Site  
 [Zero Games - Curso Completo](https://seu-usuario.github.io/nome-do-repositorio/)  
-(Substitua pelo link real do seu site)
+(https://luizsilva956.github.io/zerogames/)
 
 ---
 
