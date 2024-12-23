@@ -16,30 +16,7 @@ O **Zero Games** é um curso prático e acessível para todos que desejam transf
 - **Introdução ao desenvolvimento de jogos**  
 - **Ferramentas como Unity, Godot e Unreal Engine**  
 - **Design de jogos e storytelling**  
-- **Estratégias eficazes de monetização**
-
----
-
-## 🚀 Tecnologias Utilizadas  
-- **HTML5**: Estrutura do site  
-- **CSS3**: Estilização e design responsivo  
-- **GitHub Pages**: Hospedagem gratuita do site  
-
----
-
-## 🛠️ Como Contribuir  
-Quer ajudar a melhorar este projeto? Siga os passos abaixo:  
-1. Faça um fork do repositório.  
-2. Crie uma branch para suas alterações: `git checkout -b minha-branch`.  
-3. Adicione suas alterações e faça commit: `git commit -m "Minha contribuição"`.  
-4. Envie as alterações: `git push origin minha-branch`.  
-5. Abra um Pull Request.  
-
----
-
-## 📩 Contato  
-Entre em contato para dúvidas, sugestões ou parcerias:  
-📧 **contato@zerogames.com**  
+- **Estratégias eficazes de monetização**  
 
 ---
 
