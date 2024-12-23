@@ -206,7 +206,54 @@ section ul {
     font-weight: bold;
     border-radius: 8px;
     transition: background-color 0.3s ease;
+}/* Estilo para a seção Conteúdo do Curso */
+#conteudo-curso {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background-color: #F9FAFB;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+#conteudo-curso h2 {
+    text-align: center;
+    color: #1E3A8A;
+    margin-bottom: 1.5rem;
+}
+
+#conteudo-curso section {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#conteudo-curso section h3 {
+    color: #374151;
+    margin-bottom: 0.5rem;
+}
+
+#conteudo-curso section p {
+    color: #555;
+    margin-bottom: 1rem;
+}
+
+#conteudo-curso .btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #60A5FA;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+#conteudo-curso .btn:hover {
+    background-color: #1E3A8A;
+}
+
 
 #passo1 a.btn:hover {
     background-color: #1E3A8A;
